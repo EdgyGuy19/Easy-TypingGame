@@ -1,0 +1,24 @@
+/* inside style.css */
+.highlight {
+    background-color: yellow;
+  }
+  
+  .error {
+    background-color: lightcoral;
+    border: red;
+  }
+
+  h1 {
+    color: purple;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+  body {
+    background-color: lightblue;
+    text-align: center;
+    p {
+      font-family: "Lucida Console", "Courier New", monospace;
+    }
+  }
+
